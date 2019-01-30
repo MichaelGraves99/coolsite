@@ -1,0 +1,45 @@
+header {
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+}
+hr {
+  margin-top: 30px;
+  background-color: rgb(145, 245, 195);
+  height: 30px;
+}
+section h1{
+  text-align: center;
+}
+
+
+main{
+  height: 50vh;
+  position: relative;
+}
+.main{
+  width: 50vw;
+  display: inline-block;
+  margin-left: 10vw;
+  margin-right: 7vw;
+}
+.secondary{
+  display: inline-block;
+  max-width: 20vw;
+  margin-top: 10vh;
+}
+
+.img {
+  height: 10vh;
+}
+.foot {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  height: 100px;
+  width: 100vw;
+  background-color: blue;
+}
+
